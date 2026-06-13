@@ -4,3 +4,13 @@
 	box-sizing: border-box;
 	font-family: 'Inter', 'Noto Sans JP', sans-serif;
 }
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	color: #fff;
+	text-align: center;
+	background: url('imagenes/wp3400501.jpg') no-repeat center center/cover;
+}
