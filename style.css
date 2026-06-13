@@ -14,3 +14,57 @@ body {
 	text-align: center;
 	background: url('imagenes/wp3400501.jpg') no-repeat center center/cover;
 }
+
+#contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	min-height: 80vh;
+	width: 80vh;
+	max-width: 600px;
+	/*la siguiente línea establece el color de fondo con transparencia*/
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	border-radius: 10px;
+}
+
+h1 {
+	font-size: 2.5rem;
+	width: 100%;
+	margin: 20px 10px
+}
+
+ul {
+	list-style: none;
+	width: 100%;
+	height: 100%;
+}
+
+.animes {
+	font-size: 1.5rem;
+	font-weight: bold;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 80px;
+	margin: 10px 0;
+}
+
+.fondo-marron {
+	background-color: #8B4513;
+	/*padding: 10px 20px;
+	border-radius: 5px;
+	margin: 5px;
+	transition: background-color 0.3s ease;*/
+}
+
+.fondo-naranja {
+	background-color: #FFA500;
+	/*padding: 10px 20px;
+	border-radius: 5px;
+	margin: 5px;
+	transition: background-color 0.3s ease;*/
+}
