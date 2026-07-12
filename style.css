@@ -54,17 +54,17 @@ ul {
 }
 
 .fondo-marron {
-	background-color: #8B4513;
-	/*padding: 10px 20px;
+	background-color: #a7602e;
+	padding: 10px 20px;
 	border-radius: 5px;
 	margin: 5px;
-	transition: background-color 0.3s ease;*/
+	transition: background-color 0.3s ease;
 }
 
 .fondo-naranja {
-	background-color: #FFA500;
-	/*padding: 10px 20px;
+	background-color: #cf8f19;
+	padding: 10px 20px;
 	border-radius: 5px;
 	margin: 5px;
-	transition: background-color 0.3s ease;*/
+	transition: background-color 0.3s ease;
 }
