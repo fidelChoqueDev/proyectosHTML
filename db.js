@@ -1,5 +1,4 @@
-const dbAnime = {
-    items : [
+const dbAnime = [
         {
 					id: 0,
           title : "Super Campeones",
@@ -47,5 +46,3 @@ const dbAnime = {
     			description : "descripcion"
         },
     ]
-    
-}
